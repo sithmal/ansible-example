@@ -1,0 +1,1 @@
+localhost ansible_host=localhost ansible_connection=ssh ansible_port=22 ansible_user=osboxes ansible_password=osboxes.org
